@@ -56,7 +56,7 @@
     ]
   },
   "editable": true,
-  "gnetId": 1860,
+  "gnetId": 405,
   "graphTooltip": 0,
   "id": null,
   "iteration": 1631114404607,
@@ -73,7 +73,7 @@
       "tags": [],
       "title": "Grafana",
       "type": "link",
-      "url": "https://grafana.com/grafana/dashboards/1860"
+      "url": "https://grafana.com/grafana/dashboards/405"
     }
   ],
   "panels": [

@@ -30,7 +30,7 @@
     }
   ],
   "id": null,
-  "title": "Netgraf Dashboard Metrics",
+  "title": "Netgraf Network Monitoring Service Dashboard",
   "description": "Dashboard to view multiple servers",
   "tags": [
     "prometheus"
